@@ -1,4 +1,4 @@
-package com.rohan90.playground_java.hackerrank;
+package com.rohan90.playground.hackerrank;
 
 import org.junit.Assert;
 import org.junit.Test;
